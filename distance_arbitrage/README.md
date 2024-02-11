@@ -56,7 +56,7 @@ It is worth noting that this may be necessary to get the web scraper to work.
 
 ## Class diagram:
 
-![diagram](distance_arbitrage.drawio.png)
+![Diagram](distance_arbitrage.drawio.png)
 
 ### Bug Reporting:
 
