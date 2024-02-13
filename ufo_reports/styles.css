@@ -1,0 +1,53 @@
+#main {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    padding: 1;
+    margin: 1;
+    display: flex;
+    background-color: lightgrey;
+    box-shadow: 1px 1px 6px;
+}
+
+.window {
+    border-radius: 1px;
+    height: 100%;
+    border: 1px solid grey;
+    display: inline-block;
+    position: absolute;
+}
+
+#sideBar {
+    width: 10%;
+    height: 100%;
+    overflow-y: scroll;
+    direction: ltr;
+    background-color: lightgrey;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+#visHolder {
+    margin: 0;
+    width: 90%;
+    height: 70%;
+    flex: 1;
+    padding: 0;
+    margin: 0;
+    right: 0%;
+    top: 0%;
+    position: absolute;
+}
+
+#inner {
+    width: 90%;
+    height: 30%;
+    padding: 0;
+    /* overflow-y: scroll; */
+    direction: ltr;
+    background-color: darkgrey;
+    bottom: 0;
+    right: 0%;
+    position: absolute;
+}
