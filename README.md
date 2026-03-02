@@ -6,7 +6,7 @@ A curated collection of full-stack software engineering projects. Each project d
 
 | Project | Type | Tech Stack | Status |
 |---------|------|-----------|--------|
-| [Lifestyle App](#-lifestyle-app) | Mobile | Kotlin, Android, REST APIs | Production |
+| [Lifestyle App](#-lifestyle-app) | Mobile | Kotlin, Android, REST APIs | Complete |
 | [Distance Arbitrage](#-distance-arbitrage) | Data Science | Python, PyQt5, Pandas | Complete |
 | [MSD Script Interpreter](#-msd-script-interpreter) | Systems | C++, Parsing | Complete |
 | [UFO Data Visualization](#-ufo-sighting-data-visualization) | Web/Data Viz | D3.js, JavaScript, Pandas | Complete |
