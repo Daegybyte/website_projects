@@ -1,8 +1,6 @@
 # MSDSCRIPT Documentation
 # Licensing
-MSDSCRIPT is offered free of charge. However, if you want to give Braden five dollars,
-his Venmo is: @Braden-Kirkham.
-
+MSDSCRIPT is offered free of charge.
 Copyright 2022 MSD
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -223,9 +221,6 @@ std::string output = parse_str(expr)->interp(Env::empty)->to_string();
   * Due to the lack of floating point numbers, division is not possible using MSDSCRIPT.
 * Functions can only take one parameter.
 * Using and underscore in a name is not allowed, because they are reserved for the parser.
-
-### Bug Reporting
-Please report all bugs to [@elonmusk](https://twitter.com/elonmusk/with_replies?lang=en) on Twitter.
 
 ### Miscellaneous 
 No animals were harmed in the making of this program.
